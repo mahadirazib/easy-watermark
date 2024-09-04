@@ -1,5 +1,5 @@
 # Easy watermark
-This software can be used for bulk watermark/logo apply on images. 
+This software can be used for bulk watermark/logo apply on images. See the tutorial video for more clarification.
 
 
 
