@@ -1,8 +1,8 @@
-#Easy watermark
+# Easy watermark
 This software can be used for bulk watermark/logo apply on images.
 
 
-##usage:
+## usage:
 For the py file first run these commands:
   ```sh
 pip install tk
